@@ -1,10 +1,15 @@
 # Tarea 2 - Redes de Computadores
 
 ## Descripción Informe
+
 ***Universidad Católica de la Santísima Concepción***
+
 ***Curso:*** Redes de Computadores
+
 ***Código:*** IN1082C
+
 ***Profesor:*** Yasmany Prieto H.
+
 ***Nombre:*** Felipe Valentín M.
 
 
