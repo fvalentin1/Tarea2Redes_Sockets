@@ -1,6 +1,6 @@
 # Tarea 2 - Redes de Computadores
 
-## IN1082C
+# # IN1082C
 Desarrollo de aplicación Cliente-Servidor mediante el uso de Sockets de Berkeley
 
 
